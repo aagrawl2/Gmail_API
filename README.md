@@ -2,7 +2,7 @@
 A simple Gmail API client for Ruby which downloads email attachments and back it up to Amazon S3 . It is based on Gmail Oauth2 mechanism.
 
 ####Notes
-1) Oauth2 credentials (client id, client secret, refresh token) are needed before running the script. If you have not generated refresh token take reference : https://github.com/aagrawl2/Ruby_Hacking/blob/master/generate_refresh_token.rb
+1) Oauth2 credentials (client id, client secret, refresh token) are needed before running the script. If you have not generated refresh token take reference : https://github.com/aagrawl2/Ruby/blob/master/generate_refresh_token.rb
 
 2) Gmail user login is required as an input parameter
 
