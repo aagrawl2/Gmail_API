@@ -3,6 +3,9 @@ A simple Gmail API client for Ruby which downloads email attachments and back it
 
 ####Notes
 1) Oauth2 credentials (client id, client secret, refresh token) are needed before running the script. If you have not generated refresh token take reference : https://github.com/aagrawl2/Ruby/blob/master/generate_refresh_token.rb
+reference for scope : https://developers.google.com/gmail/api/auth/scopes
+
+2) Scopes needed for Oauth 2 are : https://www.googleapis.com/auth/gmail.modify https://www.googleapis.com/auth/gmail.readonly	
 
 2) Gmail user login is required as an input parameter
 
