@@ -120,8 +120,5 @@ class Gmail
 			puts response_body
 		end
 	end
-<<<<<<< HEAD
+
 end
-=======
-end
->>>>>>> FETCH_HEAD
